@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://leetcode.com/thinkersm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thinkersm" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/thinkersm/practice/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="thinkersm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-modi-7a581818a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" alt="shivam-modi"/></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
