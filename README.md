@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-modi&show_icons=true&locale=en" alt="shivam-modi" /></p>
 
 <h3 align="left">Badges:</h3>
+
 [![@thinkersm's Holopin board](https://holopin.me/thinkersm)](https://holopin.io/@thinkersm)
