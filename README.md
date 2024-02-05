@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋 folks, I'm Shivam Modi</h1>
 <h3 align="center">A passionate Full Stack developer and Blockchain enthusiastic from India</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **C++, Flutter, Javascript and React/Next**
 
