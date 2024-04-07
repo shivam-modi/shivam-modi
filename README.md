@@ -1,7 +1,7 @@
 
 
 <!--
-**Apoorvgarg-creator/Apoorvgarg-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shivam-modi/shivam-modi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **C++, Flutter, Javascript and React/Next**
+- 💬 Ask me about **C++, Flutter, Javascript, Web3 and React/Next**
 
 - 📫 How to reach me **shivam.proactive27@gmail.com**
 
