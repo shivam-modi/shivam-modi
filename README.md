@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **C++, Flutter, Javascript, Web3 and React/Next**
+- 💬 Ask me about **Springboot, C++, Flutter, Javascript, Web3 and React/Next**
 
 - 📫 How to reach me **shivam.proactive27@gmail.com**
 
