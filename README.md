@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello 👋 folks, I'm Shivam Modi</h1>
 <h3 align="center">A passionate Full Stack developer and Blockchain enthusiastic from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-modi" alt="shivam-modi" /></a> </p>
 
 - 🌱 I’m currently learning **Go**
 
